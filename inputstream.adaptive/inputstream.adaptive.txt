@@ -1,1 +1,1 @@
-inputstream.adaptive https://github.com/ddscentral/kodi-inputstream.adaptive-win-arm64 Piers
+inputstream.adaptive https://github.com/ddscentral/inputstream.adaptive Piers
